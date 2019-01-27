@@ -1,0 +1,2 @@
+# EasyJoyIntershipHelper
+private project
